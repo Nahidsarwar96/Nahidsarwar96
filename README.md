@@ -1,4 +1,4 @@
-### Hi there 👋, Nahid Sarwar
+# Hi there 👋, Nahid Sarwar
 ![](https://github.com/Nahidsarwar96)
 
 Exploring the MERN Stack for Modern Web Development
